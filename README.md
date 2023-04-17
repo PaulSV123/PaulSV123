@@ -1,4 +1,4 @@
-### Hola mucho gusto me llamo Paul Diego Saravia Velasquez 👋
+### Hola mucho gusto soy Paul Diego Saravia Velásquez 👋
 #### Soy una persona autodidacta que le gusta desarrollar y apoyar en proyectos a sus amigos, actualmente soy un desarrollador de Front-end en busca de retos para convertirme en un desarrollador Fullstack:
 
 <div align="center">
