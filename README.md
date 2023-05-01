@@ -28,11 +28,11 @@ Las herramientas-lenguajes que uso y conozco:
 ![Stats](https://github-readme-stats.vercel.app/api?username=PaulSV123&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 <br/>
-
+<!--
 ### Numero de conteo de visitas
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PaulSV123)
-
+-->
 </div>
 
 <!--
