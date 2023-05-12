@@ -24,15 +24,19 @@ Las herramientas-lenguajes que uso y conozco:
 <br/>
 
 ### Mis Stats del año
-  
 ![Stats](https://github-readme-stats.vercel.app/api?username=PaulSV123&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+<div>  
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&username=PaulSV123" height="150" alt="languages graph"  />
+</div>
 
 <br/>
-<!--
+
 ### Numero de conteo de visitas
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PaulSV123)
--->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/PaulSV123/count.svg?"  />
+</div>
+
 </div>
 
 <!--
