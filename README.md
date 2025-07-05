@@ -1,5 +1,5 @@
 #### Git de trabajos y tareas
-
+<!--
 ### Mis Stats del año
 ![Stats](https://github-readme-stats.vercel.app/api?username=PaulSV123&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 <div>  
@@ -15,7 +15,7 @@
 </div>
 
 </div>
-
+-->
 <!--
 **PaulSV123/PaulSV123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
